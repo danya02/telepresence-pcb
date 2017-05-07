@@ -927,7 +927,7 @@
             </views>
         </instance>
         <instance moduleIdRef="CrystalModuleID" modelIndex="85512516" path="/home/danya/Fritzing/fritzing-parts/core/crystal.fzp">
-            <property name="frequency" value="32 MHz"/>
+            <property name="frequency" value="32 kHz"/>
             <title>XTAL1</title>
             <views>
                 <breadboardView layer="breadboard">
